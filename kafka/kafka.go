@@ -1,5 +1,5 @@
 package kafka
-
+// test push
 import (
 	"github.com/Shopify/sarama"
 	"github.com/astaxie/beego/logs"
